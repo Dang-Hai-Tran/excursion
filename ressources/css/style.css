@@ -1,0 +1,51 @@
+* {
+  margin: auto;
+  text-align: center;
+  font-family: Verdana;
+  /* border: 1px solid red; */
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+p {
+  margin-top: 50px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+video {
+  margin-top: 30px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  margin-top: 50px;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
+  margin-top: 30px;
+}
+
+img {
+  margin-top: 15px;
+}
+
+.sign {
+  text-align: right;
+  margin-top: 15px;
+}
